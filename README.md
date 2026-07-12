@@ -25,8 +25,8 @@
 |-----------------------------------------|--------|-----------------------------------------|
 | ![Mobile 1](snapshots/mobile_page1.jpg) | ![Mobile 2](snapshots/mobile_page2.jpg) | ![Mobile 3](snapshots/mobile_page3.jpg) |
 
-| 设置 | 退出确认 |
-|------|---------|
+| 设置 | 主页(PC)                                    |
+|------|-------------------------------------------|
 | ![Mobile 4](snapshots/mobile_page4.jpg) | ![PC Homepage](snapshots/pc_homepage.png) |
 
 ---
